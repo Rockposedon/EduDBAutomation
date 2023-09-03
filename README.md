@@ -89,7 +89,7 @@ This script automatically generates data and populates them with data using sing
 
 EduDBAutomation is a Python and MySQL-based project designed to manage large-scale user data for an online education platform. It mimics real-world user interactions and efficiently handles vast volumes of data, making it an ideal solution for educational platforms seeking to streamline their data management processes. By following the steps in this guide, you can quickly set up the database schema, populate it with sample data, and explore the capabilities of this project.
 
-## contribute
+## Contribute
 Feel free to contribute, report issues, or provide feedback to help us improve EduDBAutomation further. We look forward to seeing how this project can benefit your online education initiatives.
 
 Happy coding!
