@@ -3,7 +3,7 @@ from faker import Faker
 import random
 
 fake = Faker()
-
+# When you clone this project you have to write your host,user,password
 conn = mysql.connector.connect(
     host="localhost",
     user="root",
