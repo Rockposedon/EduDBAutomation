@@ -67,13 +67,13 @@ Before running the data population script, you need to set up the database schem
    mysql -u your_username -p
    ```
 2. Import the Schema: Navigate to the directory where the E_learning_platform.sql file is located and import it into the database:
-```bash
-mysql -u your_username -p your_database_name < E_learning_platform.sql
-```
+    ```bash
+    mysql -u your_username -p your_database_name < E_learning_platform.sql
+    ```
 3. Verify Tables: You can check if the tables were created successfully by listing the tables in the database:
- ```
-SHOW TABLES;
- ```
+     ```
+    SHOW TABLES;
+     ```
 
 ## How to Run
 
