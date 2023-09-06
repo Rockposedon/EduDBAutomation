@@ -108,7 +108,7 @@ I would like to express my gratitude to the following tools and libraries that a
 
 If you have any questions, suggestions, or feedback about this project, please feel free to contact me. I welcome your input!
 
-- **Your Name**: Paritosh Verma
+- **Name**: Paritosh Verma
 - **Email**: paritoshverma50@gmail.com
 
 ## License
